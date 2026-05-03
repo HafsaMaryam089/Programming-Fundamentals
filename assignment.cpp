@@ -1,11 +1,7 @@
-
-
-
 #include <iostream>
 using namespace std;
 
 int main() {
-    //variables with different data types
     int pin;                          // for PIN input
     int fixed_pin = 1234;             // fixed PIN 
     int attempts = 0;                 // login attempts
