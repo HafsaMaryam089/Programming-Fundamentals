@@ -4,8 +4,8 @@ using namespace std;
 int main() {
     int pin;                          // for PIN input 
     int fixed_pin = 1234;             // fixed PIN 
-    int attempts = 0;                 // login attempts
-    float balance = 1000.0;           // total balance
+    int attempts = 0;                 
+    float balance = 1000.0;           
     float amount = 0.0;               // for deposit
     char last_transaction_type = 'N'; // 'N' = None, 'D' = Deposit, 'W' = Withdraw
     float last_transaction_amount = 0;
