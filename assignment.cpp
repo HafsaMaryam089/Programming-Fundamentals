@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int pin;                          // for PIN input
+    int pin;                          // for PIN input 
     int fixed_pin = 1234;             // fixed PIN 
     int attempts = 0;                 // login attempts
     float balance = 1000.0;           // total balance
